@@ -1,10 +1,10 @@
-# Primeiros Passos
+# Álcool ou Gasolina?
 
-Projeto para apresentar em meetups.
+Você já deve ter se perguntado, Álcool ou Gasolina? para sanar sua dúvida criei esse app com base em um curso de flutter e agora basta uzar esse app para decidir qual combustível usar.
 
-## Seus primeiros passos começam aqui
+## Um pouco do que aprendi no curso
 
-:iphone: Neste App pode conhecer alguns dos principais Widgets do **Flutter**
+:iphone: App para decidir com qual combustível é mais vantajoso abastecer.
 
 - [Instalação do flutter](https://flutter.dev/docs/get-started)
 - [O que é Widgets?](https://flutter.dev/docs/development/ui/widgets)
